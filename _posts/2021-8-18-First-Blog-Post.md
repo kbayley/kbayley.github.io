@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Temp
+title: Introduction
 ---
 I am new to the world of data science and statistics, so my responses are based on a bit of my own exploration and cursory knowledge along with the assigned articles. Data science appears to me to be about the real-world application of statistics through the use of computer programming. As such, the field exists at the intersection of computer science, statistics, and a specific industry or content area of expertise. It requires enough computer science to manipulate and analyze data, enough statistics to understand the principles and mechanisms for that analysis, as well as enough content knowledge to understand what indicators you’re using and how that might make a difference to the decision-makers (including yourself, as the case may be). 
 
