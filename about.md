@@ -14,4 +14,4 @@ A place to include any other types of information that you'd like to include abo
 
 [kbayley@ncsu.edu](mailto:kbayley@ncsu.edu)
 
-![](C:\Users\kabayley\Desktop\Kaitlyn.jpg)  
+![](C:\Users\kabayley\Desktop\Kaitlyn.jpg)
