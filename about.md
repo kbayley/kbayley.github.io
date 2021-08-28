@@ -1,9 +1,3 @@
----
-layout: page
-title: About
-permalink: /about/
----  
-
 ## Introduction
 Hello! I work in the career center at UNC Chapel Hill doing **assessment, evaluation, and analytics**. I'm in the Applied Statistics & Data Management certificate program at NCSU, hoping to move into **research and policy work around education and the workforce**. 
 
